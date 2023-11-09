@@ -1,0 +1,19 @@
+﻿using Data.Enum;
+
+namespace Data.Entities
+{
+    public class AccountStatement
+    {
+        public string Id { get; set; }  
+        public DateTime Date { get; set; }
+        public string AccountNo { get; set; }
+        public AccountType AccountType { get; set; }
+        public string Description { get; set; }
+        public CashFlow CashFlow { get; set; }
+        public decimal  Amount { get; set; }
+        public decimal Balance { get; set; }
+        public string AccountOwner { get; set; }
+        public Guid UserId { get; set; }
+
+    }
+}
