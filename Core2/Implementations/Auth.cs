@@ -3,7 +3,6 @@ using Core.Session;
 using Data.Entities;
 using Core.AppDashboard;
 using Core.Implementations.Validations;
-using Newtonsoft.Json;
 
 namespace Core.Implementations
 {
