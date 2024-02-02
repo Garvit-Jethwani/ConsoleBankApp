@@ -15,7 +15,7 @@
           }
         }
       },
-      "Data/1.0.0": {
+      "Data/7.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
@@ -55,7 +55,7 @@
         "packageIcon.png"
       ]
     },
-    "Data/1.0.0": {
+    "Data/7.0.0": {
       "type": "project",
       "path": "../Data/Data.csproj",
       "msbuildProject": "../Data/Data.csproj"
@@ -63,45 +63,37 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Data >= 1.0.0",
+      "Data >= 7.0.0",
       "Newtonsoft.Json >= 13.0.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "7.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Portfolio\\BankApp\\Core2\\Core.csproj",
+      "projectUniqueName": "/var/tmp/Roost/RoostGPT/csharp-test/21578408-78d4-43b0-8999-adf91dea3504/ConsoleBankApp/Core2/Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\user\\Desktop\\Portfolio\\BankApp\\Core2\\Core.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Portfolio\\BankApp\\Core2\\obj\\",
+      "projectPath": "/var/tmp/Roost/RoostGPT/csharp-test/21578408-78d4-43b0-8999-adf91dea3504/ConsoleBankApp/Core2/Core.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/var/tmp/Roost/RoostGPT/csharp-test/21578408-78d4-43b0-8999-adf91dea3504/ConsoleBankApp/Core2/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\user\\Desktop\\Portfolio\\BankApp\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\Portfolio\\BankApp\\Data\\Data.csproj"
+            "/var/tmp/Roost/RoostGPT/csharp-test/21578408-78d4-43b0-8999-adf91dea3504/ConsoleBankApp/Data/Data.csproj": {
+              "projectPath": "/var/tmp/Roost/RoostGPT/csharp-test/21578408-78d4-43b0-8999-adf91dea3504/ConsoleBankApp/Data/Data.csproj"
             }
           }
         }
@@ -137,7 +129,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
       }
     }
   }

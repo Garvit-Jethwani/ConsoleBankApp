@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PCnQkzZQ13mGaqcF0alEIECUbn5yx21lAsdhyFrXABf9kT7T4zaAX/7mC5I4VxM5GZQOLhOQV+rAS7PYKcKvVw==",
+  "dgSpecHash": "+tq4WiL3ysCm6vnIyE/Fo3mG9kxN8wYhU24+sS2pXP5qLiKxOqt90pV1J4bbgvjjhJhqAyG0K6N/JXo2A/ZmgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Portfolio\\BankApp\\Data\\Data.csproj",
+  "projectFilePath": "/var/tmp/Roost/RoostGPT/csharp-test/21578408-78d4-43b0-8999-adf91dea3504/ConsoleBankApp/Data/Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
