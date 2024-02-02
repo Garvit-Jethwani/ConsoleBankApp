@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "Data/1.0.0": {
+      "Data/7": {
         "runtime": {
           "Data.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "Data/1.0.0": {
+    "Data/7": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

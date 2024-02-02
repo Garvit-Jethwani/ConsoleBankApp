@@ -6,9 +6,9 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "Core/1.0.0": {
+      "Core/7": {
         "dependencies": {
-          "Data": "1.0.0",
+          "Data": "7.0.0",
           "Newtonsoft.Json": "13.0.1"
         },
         "runtime": {
@@ -23,7 +23,7 @@
           }
         }
       },
-      "Data/1.0.0": {
+      "Data/7.0.0": {
         "runtime": {
           "Data.dll": {}
         }
@@ -31,7 +31,7 @@
     }
   },
   "libraries": {
-    "Core/1.0.0": {
+    "Core/7": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -43,7 +43,7 @@
       "path": "newtonsoft.json/13.0.1",
       "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
     },
-    "Data/1.0.0": {
+    "Data/7.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

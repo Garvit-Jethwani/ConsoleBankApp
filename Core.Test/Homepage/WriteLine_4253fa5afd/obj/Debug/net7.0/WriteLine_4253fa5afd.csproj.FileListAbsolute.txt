@@ -1,0 +1,6 @@
+/var/tmp/Roost/RoostGPT/csharp-test/21578408-78d4-43b0-8999-adf91dea3504/ConsoleBankApp/Core.Test/Homepage/WriteLine_4253fa5afd/bin/Debug/net7.0/CoverletSourceRootsMapping
+/var/tmp/Roost/RoostGPT/csharp-test/21578408-78d4-43b0-8999-adf91dea3504/ConsoleBankApp/Core.Test/Homepage/WriteLine_4253fa5afd/obj/Debug/net7.0/WriteLine_4253fa5afd.csproj.AssemblyReference.cache
+/var/tmp/Roost/RoostGPT/csharp-test/21578408-78d4-43b0-8999-adf91dea3504/ConsoleBankApp/Core.Test/Homepage/WriteLine_4253fa5afd/obj/Debug/net7.0/WriteLine_4253fa5afd.GeneratedMSBuildEditorConfig.editorconfig
+/var/tmp/Roost/RoostGPT/csharp-test/21578408-78d4-43b0-8999-adf91dea3504/ConsoleBankApp/Core.Test/Homepage/WriteLine_4253fa5afd/obj/Debug/net7.0/WriteLine_4253fa5afd.AssemblyInfoInputs.cache
+/var/tmp/Roost/RoostGPT/csharp-test/21578408-78d4-43b0-8999-adf91dea3504/ConsoleBankApp/Core.Test/Homepage/WriteLine_4253fa5afd/obj/Debug/net7.0/WriteLine_4253fa5afd.AssemblyInfo.cs
+/var/tmp/Roost/RoostGPT/csharp-test/21578408-78d4-43b0-8999-adf91dea3504/ConsoleBankApp/Core.Test/Homepage/WriteLine_4253fa5afd/obj/Debug/net7.0/WriteLine_4253fa5afd.csproj.CoreCompileInputs.cache

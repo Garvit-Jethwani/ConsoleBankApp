@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Core
-build_property.ProjectDir = C:\Users\user\Desktop\Portfolio\BankApp\Core2\
+build_property.ProjectDir = /var/tmp/Roost/RoostGPT/csharp-test/21578408-78d4-43b0-8999-adf91dea3504/ConsoleBankApp/Core2/

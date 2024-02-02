@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "6NSS/XlxGnYSOWfi8D+cU/0/0ZH1qa0LKyX7T4jBCsElVLWbx9+JtpGyHIQ5TaM1y5vtjK+D16k5NcsoDBGsIQ==",
+  "dgSpecHash": "jIYlgnmiZarp/VwVF3F/5cUX3fLQUVW8/Ebe5FOf/gu0HzcqHEUY3p5OOgEGPgDCvIhhmKoMrR/w+Yx0bUsC3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Portfolio\\BankApp\\Core\\ConsoleApp.csproj",
+  "projectFilePath": "/var/tmp/Roost/RoostGPT/csharp-test/21578408-78d4-43b0-8999-adf91dea3504/ConsoleBankApp/Core/ConsoleApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "/root/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/root/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }
