@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "PCnQkzZQ13mGaqcF0alEIECUbn5yx21lAsdhyFrXABf9kT7T4zaAX/7mC5I4VxM5GZQOLhOQV+rAS7PYKcKvVw==",
+  "dgSpecHash": "8e2DXSPNcR1C3Kqk7VsmzAkR+2t39YrvwjAAHAnKGofsr6jJL5ybp6B01pdB48Ydy5HYbCGWSEOHXou5m0oSPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Portfolio\\BankApp\\Data\\Data.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/private/var/tmp/Roost/RoostGPT/csharp-test/1707126814/ConsoleBankApp/Data/Data.csproj",
+  "expectedPackageFiles": [
+    "/Users/garvitjethwani/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/garvitjethwani/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
